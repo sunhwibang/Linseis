@@ -16,7 +16,7 @@ and the tool plots:
 
 ## Getting Started
 
-MATLAB_R2017a was used to develop this tool
+MATLAB_R2017a was used to develop this tool. Older version of MATLAB and [Octave](https://www.gnu.org/software/octave/) can also run the tool.
 
 ### Prerequisitese
 
