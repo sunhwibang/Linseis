@@ -22,12 +22,15 @@ MATLAB_R2017a was used to develop this tool. Older version of MATLAB and [Octave
 
 #### Exporting ACSII From Linseis Data Software
 
-1. Click 'ACSII-Export' on the top function bar in the Linseis Data Evaluation Program 
+1. Click 'ACSII-Export' on the top function bar in the Linseis Data Evaluation Program
 
+2. Click 'Other traces' and then OK
 
-```
-Give examples
-```
+3. Locate the raw data file (.LSR file) that you want to export
+
+4. Select ANSI format
+
+5. Converting *.ACS to *.xlsx on   
 
 ### Installing
 
