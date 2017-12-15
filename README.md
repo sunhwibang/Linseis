@@ -1,11 +1,14 @@
 # Linseis LSR-3 Data Tool
 Data extraction and evaluation tool for Linseis LSR-3 800 Seebeck coefficient &amp; electric conductivity measurement. Taking below measured data as an input:
+
 * Time (min)
 * Temperature (C)
 * Temperature Gradient (C)
 * Resistivity (uOhm * m)
 * Relative Seebeck Coefficient (uV/K)
+
 and the tool plots:
+
 * Seebeck Coefficient vs. Temperature
 * Resistivity vs. Temperature
 * Conductivity vs. Temperature
