@@ -1,12 +1,19 @@
 # Linseis LSR-3 Data Tool
-Data Extraction and Evaluation Tool for Linseis LSR-3 Seebeck Coefficient &amp; Electric Conductivity Measurement
-
-# Project Title
-
-One Paragraph of project description goes here
+Data extraction and evaluation tool for Linseis LSR-3 800 Seebeck coefficient &amp; electric conductivity measurement. Taking below measured data as an input:
+* Time (min)
+* Temperature (C)
+* Temperature Gradient (C)
+* Resistivity (uOhm * m)
+* Relative Seebeck Coefficient (uV/K)
+and the tool plots:
+* Seebeck Coefficient vs. Temperature
+* Resistivity vs. Temperature
+* Conductivity vs. Temperature
+* Power Factor vs. Temperature
 
 ## Getting Started
 
+Extracting measured data (Time, Temperature, Temperature Gradient, Resistivity, &amp; Relative Seebeck Coefficient)
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -47,23 +54,9 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Authors
 
-* **Sunhwi Bang** - *Initial work* - [sunhwibang](https://github.com/SunhwiBang)
+* **Sunhwi Bang** - [sunhwibang](https://github.com/SunhwiBang)
 
 ## Acknowledgments
 
