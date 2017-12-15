@@ -18,9 +18,11 @@ and the tool plots:
 
 MATLAB_R2017a was used to develop this tool. Older version of MATLAB and [Octave](https://www.gnu.org/software/octave/) can also run the tool.
 
-### Prerequisitese
+### Prerequisites
 
 #### Exporting ACSII From Linseis Data Software
+
+1. Click 'ACSII-Export' on the top function bar in the Linseis Data Evaluation Program 
 
 
 ```
