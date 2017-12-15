@@ -16,12 +16,12 @@ and the tool plots:
 
 ## Getting Started
 
-Extracting measured data (Time, Temperature, Temperature Gradient, Resistivity, &amp; Relative Seebeck Coefficient)
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+MATLAB_R2017a was used to develop this tool
 
-### Prerequisites
+### Prerequisitese
 
-What things you need to install the software and how to install them
+#### Exporting ACSII From Linseis Data Software
+
 
 ```
 Give examples
