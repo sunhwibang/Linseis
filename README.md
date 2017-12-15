@@ -59,7 +59,7 @@ Give an example
 
 ## Authors
 
-* **Sunhwi Bang** - [sunhwibang](https://github.com/SunhwiBang)
+* **[Sunhwi Bang]**(https://github.com/SunhwiBang)
 
 ## Acknowledgments
 
