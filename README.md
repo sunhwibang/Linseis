@@ -30,41 +30,19 @@ MATLAB_R2017a was used to develop this tool. Older version of MATLAB and [Octave
 
 4. Select ANSI format
 
-5. Converting *.ACS to *.xlsx on   
+5. Converting *.ACS to *.xlsx on spreadsheet software like Microsoft Excel  
 
-### Installing
+#### Installing
 
-A step by step series of examples that tell you have to get a development env running
+1. Place this file and converted file on the same folder
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
+## Running the Example Files
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Authors
 
-* [**Sunhwi Bang**](https://github.com/SunhwiBang)
+* [**Sunhwi Bang**](https://github.com/SunhwiBang) 
 
 ## Acknowledgments
 
